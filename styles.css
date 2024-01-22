@@ -1,0 +1,83 @@
+/* Jumbotron */
+.jumbotron {
+    background-color:darkgrey;
+    text-align: center;
+    padding: 50px;
+}.navbar{
+    margin-bottom: 5px;
+}
+.jarak{
+    margin-bottom: 15px;
+}
+
+/* carousel */
+.carousel-inner img {
+    width: 500px;
+    height: 300px;
+}
+
+h1, p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+/* footer */
+.footer {
+    position: fixed;
+    height: 55px;
+    bottom: 0;
+    width: 100%;
+    background-color: #080808;
+}
+
+.footer-p{
+    text-align: center;
+    padding-top: 15px;
+}
+
+/* footer information*/
+.page-footer {
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: #080808;
+    color: rgb(255, 255, 255);
+}
+
+.page-footer p{
+    padding-top: 15px;
+    text-align: left;
+    color:white;
+}
+
+/* image responsive */
+.img-fluid{
+    max-width: 50%;
+    max-height: 50%;
+}
+
+/* carousel */
+.carousel-inner img {
+    width: 500px;
+    height: 300px;
+}
+
+/* card */
+.card{
+    width: 8rem;
+    margin-bottom: 5px;
+}
+
+.card-text{
+    color: black;
+    text-align: left;
+}
+
+.card img{
+    height: 7rem;
+    object-fit: cover;
+}
+
+.jarakantar{
+    margin-top: 15px;
+}
